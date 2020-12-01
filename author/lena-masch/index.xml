@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lena Masch | </title>
+    <link>https://cboussalis.github.io/author/lena-masch/</link>
+      <atom:link href="https://cboussalis.github.io/author/lena-masch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lena Masch</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cboussalis.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Lena Masch</title>
+      <link>https://cboussalis.github.io/author/lena-masch/</link>
+    </image>
+    
+    <item>
+      <title>Talk Less, Smile More? The Role of Candidates’ Physical Attributes and Facial Expressions in Elections</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-masch/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-masch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

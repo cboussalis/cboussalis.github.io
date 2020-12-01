@@ -75,6 +75,102 @@
     </item>
     
     <item>
+      <title>Are we tempted by the smile of the enemy? Examining voters’ response to politicians’ emotional displays</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-maaike-homan/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-maaike-homan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Visual Clustering: A Technique for Image Corpus Exploration and Annotation Cost Reduction</title>
+      <link>https://cboussalis.github.io/publication/2020-11-30-aslett-webbwilliams/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-11-30-aslett-webbwilliams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bodies as Battleground</title>
+      <link>https://cboussalis.github.io/publication/2020-11-30-polichinel-von-der-maase/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-11-30-polichinel-von-der-maase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender, Candidate Emotional Expression, and Voter Reactions During Televised Debates</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-boussalis/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-boussalis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidden in plain sight: detecting electoral fraud using statutory results</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-arnold-warner/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-arnold-warner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How kids see politics: using children’s drawings of political leaders to understand political socialization</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-holman/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-holman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keep Calm And Lose The Election: An Emotion Analysis of Presidential Debates in the USA</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-caliskan/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-caliskan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk Less, Smile More? The Role of Candidates’ Physical Attributes and Facial Expressions in Elections</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-masch/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-masch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Politics of Migration Data Visualizations</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-allen/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When do Legislators Deliver Dramatic Legislative Speeches? Automated Video Analysis of Key Vote Debates in the 115th US House of Representatives</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-rittmann/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-rittmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When you smile to the electorate, the electorate smiles back at you</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-ruiz-schaffner/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-ruiz-schaffner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winning Tactics: Similarity Cues of Vote Choice and Intra-Party Competition</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-pahontu/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-pahontu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>https://cboussalis.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -102,7 +198,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-168327594&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-683295741&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -112,7 +208,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-168327594&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-683295741&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
