@@ -131,6 +131,14 @@
     </item>
     
     <item>
+      <title>Pay attention to this! Explaining emphasis in legislative speech using automated video analysis in the US House of Representatives</title>
+      <link>https://cboussalis.github.io/publication/2020-12-01-rittmann/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-01-rittmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Talk Less, Smile More? The Role of Candidates’ Physical Attributes and Facial Expressions in Elections</title>
       <link>https://cboussalis.github.io/publication/2020-12-01-masch/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
@@ -143,14 +151,6 @@
       <link>https://cboussalis.github.io/publication/2020-12-01-allen/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://cboussalis.github.io/publication/2020-12-01-allen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>When do Legislators Deliver Dramatic Legislative Speeches? Automated Video Analysis of Key Vote Debates in the 115th US House of Representatives</title>
-      <link>https://cboussalis.github.io/publication/2020-12-01-rittmann/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cboussalis.github.io/publication/2020-12-01-rittmann/</guid>
       <description></description>
     </item>
     
@@ -198,7 +198,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-564728319&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-527916348&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -208,7 +208,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-564728319&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-527916348&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
