@@ -99,6 +99,14 @@
     </item>
     
     <item>
+      <title>Do Candidates Tweet About Oirish Sheep? Examining the Irish #GE2020 Campaign on Social Media Using an Images-as-Data Approach</title>
+      <link>https://cboussalis.github.io/publication/2020-12-10-belford-cross-muller-schoonvelde/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cboussalis.github.io/publication/2020-12-10-belford-cross-muller-schoonvelde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gender, Candidate Emotional Expression, and Voter Reactions During Televised Debates</title>
       <link>https://cboussalis.github.io/publication/2020-12-01-boussalis/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
@@ -190,7 +198,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-184635972&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-586173492&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -200,7 +208,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-184635972&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-586173492&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
